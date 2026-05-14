@@ -1,6 +1,14 @@
 ## 🔗 Direct Download Links
 > Click on any link below to start downloading directly.<br><br/>
 
+
+### 📅 2026-05-15 00:27 IR
+- 🗜️ [v2rayN-windows-64-desktop.7z.001](https://github.com/user8365-web/sandbox/raw/main/dl/v2rayN-windows-64-desktop.7z.001) `95.0MB`
+
+- 🗜️ [v2rayN-windows-64-desktop.7z.002](https://github.com/user8365-web/sandbox/raw/main/dl/v2rayN-windows-64-desktop.7z.002) `23.9MB`
+
+---
+
 ### 📅 2026-05-14 13:52 IR
 
 - 📱 [PsiphonPro_v464.zip](https://github.com/nscl5/dl/raw/main/dl/PsiphonPro_v464.zip) `25MB`
