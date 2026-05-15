@@ -2,6 +2,12 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-05-15 21:58 IR
+- 🎬 [CSS_v34_ClientMod_Tutorial_and_settings.mp4](https://github.com/user8365-web/sandbox/raw/main/dl/CSS_v34_ClientMod_Tutorial_and_settings.mp4) `74.6MB`
+
+---
+
+
 ### 📅 2026-05-15 21:44 IR
 - 🎬 [CS2_Hud_for_CSS_v34_ClientMod.mp4](https://github.com/user8365-web/sandbox/raw/main/dl/CS2_Hud_for_CSS_v34_ClientMod.mp4) `63.2MB`
 
